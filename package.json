@@ -1,0 +1,16 @@
+{
+  "name": "scrpitszz",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.1",
+    "ts-node": "^10.8.2"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
+}
