@@ -1,9 +1,13 @@
 # Lock Kit
 
 ## 安装
-
+1.从本仓库拉取代码
 ```bash
-npm install
+git clone https://github.com/lankeo/lock-kit.git
+```
+2.安装依赖
+```bash
+cd lock-kit && npm install
 ```
 
 ## 使用
